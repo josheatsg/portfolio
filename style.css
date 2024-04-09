@@ -1,0 +1,10 @@
+body{
+    background-color: aquamarine;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+#my_info {
+    color:blue;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+}
